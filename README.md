@@ -36,10 +36,6 @@ The game is played on a 3x3 grid between two players - X and O. Players take tur
 - Sivakomal Uppuluri 
 - Ganesh Jangala
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 Inspiration for this project came from learning C programming basics. Special thanks to our mentor Ms. Snehal K for guiding us.
